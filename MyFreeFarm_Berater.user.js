@@ -626,7 +626,6 @@ const INIT_questData = {"main":{"1":INIT_questDataItem.clone(),"2":INIT_questDat
                        ,"infinite":{"1":INIT_questDataItem.clone()}
                        ,"fishing":{"1":INIT_questDataItem.clone()}
                        ,"scouts":{"1":INIT_questDataItem.clone()}
-                       ,"spicehouse":{"1":INIT_questDataItem.clone()}
                        };
 // state: 0:not available, 1:not activated, 2:active
 /*
